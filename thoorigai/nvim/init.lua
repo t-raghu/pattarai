@@ -1,1 +1,1 @@
-require('plugin.install')
+require('raghu')
