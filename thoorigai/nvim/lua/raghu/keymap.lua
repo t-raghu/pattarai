@@ -19,7 +19,6 @@ vim.keymap.set("n", "<leader><leader>s", function()
     vim.cmd("source ~/.config/nvim/init.lua")
 end)
 
-vim.keymap.set("n", "<leader>pv", vim.cmd.Ex)
 
 vim.keymap.set("v", "J", ":m '>+1<CR>gv=gv", { desc = 'Move Selection Up.' })
 vim.keymap.set("v", "K", ":m '<-2<CR>gv=gv")
