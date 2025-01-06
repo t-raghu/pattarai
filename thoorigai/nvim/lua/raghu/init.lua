@@ -1,4 +1,5 @@
 require('raghu.settings')
 require('raghu.keymaps')
+require('raghu.autocmd')
 require('raghu.boot')
 require('raghu.lazy')
