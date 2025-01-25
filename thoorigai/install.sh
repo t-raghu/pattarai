@@ -8,3 +8,5 @@ tar xzf nvim-macos-arm64.tar.gz
 curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim.appimage
 chmod u+x nvim.appimage
 ./nvim.appimage
+
+
