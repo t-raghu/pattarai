@@ -26,10 +26,10 @@ return {
 
             vim.keymap.set("n", "<leader>tr", function()
                 neotest.run.run()
-            end, { desc = 'Run Test.' })
+            end, { desc = 'Test Run`.' })
             vim.keymap.set("n", "<leader>to", function()
                 neotest.output.open()
-            end, { desc = 'Toggle Test Ouput.' })
+            end, { desc = 'Test Ouput.' })
             vim.keymap.set("n", "<leader>tp", function()
                 neotest.output_panel.toggle()
             end, { desc = 'Toggle Test Ouput.' })
