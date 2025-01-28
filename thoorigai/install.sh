@@ -10,3 +10,4 @@ chmod u+x nvim.appimage
 ./nvim.appimage
 
 
+
