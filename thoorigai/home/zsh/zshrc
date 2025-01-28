@@ -192,3 +192,5 @@ export GOBIN=$HOME/work/ws/tools/go/gobin
 PATH=$GOBIN:$PATH
 autoload -U +X bashcompinit && bashcompinit
 complete -o nospace -C /usr/bin/packer packer
+hash PDE=$HOME/ws/code/www.github.com/t-raghu/pattarai
+
