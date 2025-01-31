@@ -32,6 +32,7 @@ return {
                 "gopls",
                 "zk",
                 "ansiblels",
+                "jsonls",
 
             },
             handlers = {
